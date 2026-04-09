@@ -47,8 +47,6 @@ We welcome contributions from the community!
 
 👉 See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
-PrebuiltUI is an open-source project licensed under the [MIT License](./LICENSE).
-
 ---
 
 > 🔗 **Explore here**: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
